@@ -1,10 +1,62 @@
+body{
+    margin:0px ;
+}
 .heading{
     font-weight: 700;
     text-align: center;
-    font-size: 20px;
+    font-size: 40px;
     background-color: #3d405b;
     margin: 0px;
     padding: 0px;
     width: 100%;
     color: #ffafcc;
+    margin-top: 0px;
+    height: 50px;
+    font-family: 'East Sea Dokdo', cursive;
+
 }
+
+.first-sec{
+    background-image: url(images/travel.jpg);
+    background-size:100%;
+    background-repeat: no-repeat;
+    height: 500px;
+    margin: 0px;
+}
+
+.highlight{
+    font-size: 100px;
+    margin: 0px;
+    color: #faf3dd;
+    font-family: 'East Sea Dokdo', cursive;
+
+}
+span{
+    color: #f72585;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    margin-bottom: 1px;
+}
+
+.bud{
+    font-size: 50px;
+    font-family: 'Raleway', sans-serif;
+
+}
+.para{
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+
+
+.half-width img{
+    width: 100%;
+}
+
+
